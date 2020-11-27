@@ -147,7 +147,7 @@ You can change the tagline or remove it by clearing the field.
 
 2. Adding a preferred tagline
 
-![Preferred Tagline](/images/preferredtagline.PNG)
+![Preferred Tagline](/images/preferred-tagline.PNG)
 
 Once you have done this scroll down and click the save changes button.
 
