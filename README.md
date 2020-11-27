@@ -66,7 +66,7 @@ Participants will get the most from this lesson if they have familiarity with:
 ## Slides
 
 
-*   [Slides](https://wptrainingteam.github.io/lesson-plans/repo-name/slides/) (files included in this repo)
+*   [Slides](https://wptrainingteam.github.io/lesson-plans/Changing-your-site-tagline/slides/) (files included in this repo)
 
 ## Materials Needed
 
