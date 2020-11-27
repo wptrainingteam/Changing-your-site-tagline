@@ -111,7 +111,7 @@ There should be one assement item (or more) for each objective listed above. Eac
 
 ## Additional Resources
 
-* How to clear your cache [here] (https://www.pcmag.com/how-to/how-to-clear-your-cache-on-any-browser)
+* How to clear your cache [here](https://www.pcmag.com/how-to/how-to-clear-your-cache-on-any-browser)
 
 ## Lesson Walkthrough
 
